@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/Fusion-OS-1.3-Lithium_lavender-10.0-20201123-1253-OFFICIAL.zip
+  ROM_URL: https://sourceforge.net/projects/realme-u1/files/Fusion/Fusion-OS-1.1-Argon_RMX1831-10.0-20200804-0429-OFFICIAL.zip/download
   ROM_NAME: Generic
-  ZIP_NAME: FusionOS-1.3-Lithium_TechyMinati-
+  ZIP_NAME: FusionOS-1.1-Argon-10.0_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
