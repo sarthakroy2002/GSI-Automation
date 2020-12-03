@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.69_GLO_069_2010292144/OnePlus5TOxygen_43_OTA_069_all_2010292144_de4a6fa.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: Oxygen-test
+  ROM_URL: https://tdrive.elytra8.workers.dev/Fusion-OS-1.3-Lithium_lavender-10.0-20201123-1253-OFFICIAL.zip
+  ROM_NAME: Generic
+  ZIP_NAME: Fusion-OS-1.3-Lithium_TechyMinati-GSI
   TZ: Asia/Kolkata
 jobs:
   build:
