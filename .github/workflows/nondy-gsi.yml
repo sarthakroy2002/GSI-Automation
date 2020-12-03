@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://sourceforge.net/projects/realme-u1/files/Fusion/Fusion-OS-1.1-Argon_RMX1831-10.0-20200804-0429-OFFICIAL.zip/download
-  ROM_NAME: Generic
-  ZIP_NAME: FusionOS-1.1-Argon-10.0_TechyMinati
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+  ROM_NAME: ColorOS
+  ZIP_NAME: RealmeUI-1.0-C11_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
