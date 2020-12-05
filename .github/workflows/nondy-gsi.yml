@@ -4,8 +4,8 @@ on: [push]
 
 env:
   ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: RealmeUI-1.0-C11_TechyMinati
+  ROM_NAME: Generic
+  ZIP_NAME: EvolutionX_5.1_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
