@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/EvolutionX_5.0_raphael-11.0-20201023-1159-OFFICIAL.zip
-  ROM_NAME: Generic
-  ZIP_NAME: EvolutionX-5.0_11.0_TechyMinati
+  ROM_URL: https://hell.godseye.workers.dev//Abhix_rog_20.11.5_tulip_port_sumit.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI12-AbhiXRogEdition_10.0_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
