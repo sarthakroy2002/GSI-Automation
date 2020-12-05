@@ -3,7 +3,7 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX2185_11_OTA_0790_all_dsysIPFhgWAX.ozip
+  ROM_URL: https://tdrive.elytra8.workers.dev/EvolutionX_5.1_wasabi-11-20201205-1042-UNOFFICIAL-VANILLA.zip
   ROM_NAME: Generic
   ZIP_NAME: EvolutionX_5.1_TechyMinati
   TZ: Asia/Kolkata
