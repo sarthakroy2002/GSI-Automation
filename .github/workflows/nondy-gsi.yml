@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://hell.godseye.workers.dev//Abhix_rog_20.11.5_tulip_port_sumit.zip
+  ROM_URL: https://bigota.d.miui.com/V12.1.1.0.RJIMIXM/miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI12-AbhiXRogEdition_10.0_TechyMinati
+  ZIP_NAME: MIUI12.1_11.0_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
