@@ -3,7 +3,7 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://osdn.net/frs/redir.php?f=%2Fstorage%2Fg%2Fr%2Fre%2Frevengeos%2Flavender%2FRevengeOS-4.0-R-OFFICIAL-lavender-20201122-1107.zip
+  ROM_URL: https://tdrive.elytra8.workers.dev/RevengeOS-4.0-R-OFFICIAL-lavender-20201122-1107.zip
   ROM_NAME: Generic
   ZIP_NAME: RevengeOS-4.0_R_TechyMinati
   TZ: Asia/Kolkata
