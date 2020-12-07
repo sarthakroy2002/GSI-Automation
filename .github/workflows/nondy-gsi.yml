@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/RevengeOS-4.0-R-OFFICIAL-lavender-20201122-1107.zip
+  ROM_URL: https://tdrive.elytra8.workers.dev/proton-aosp_redfin_11.2.0.zip
   ROM_NAME: Generic
-  ZIP_NAME: RevengeOS-4.0_R_TechyMinati
+  ZIP_NAME: ProtonAOSP-11.2_R_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
