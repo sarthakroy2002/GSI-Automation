@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/crDroidAndroid-10.0-20201109-beryllium-v6.12.zip
+  ROM_URL: https://tdrive.elytra8.workers.dev/crDroidAndroid-9.0-20191114-beryllium-v5.10.zip
   ROM_NAME: Generic
-  ZIP_NAME: CrDroid-6.0_10.0_TechyMinati
+  ZIP_NAME: CrDroid-5.0_Pie_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
