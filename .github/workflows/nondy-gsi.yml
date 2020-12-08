@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://github.com/ProtonAOSP/android_device_google_wahoo/releases/download/v11.0.0/proton-aosp_walleye_11.0.0.zip
+  ROM_URL: https://github.com/ProtonAOSP/android_device_google_wahoo/releases/download/v11.0.0/proton-aosp_walleye_11.0.0-gapps.zip
   ROM_NAME: Generic
-  ZIP_NAME: ProtonAOSP-11.2_R_TechyMinati
+  ZIP_NAME: ProtonAOSP-11.2-GApps_R_TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
