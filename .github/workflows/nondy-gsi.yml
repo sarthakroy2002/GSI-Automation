@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://github.com/ProtonAOSP/android_device_google_wahoo/releases/download/v11.0.0/proton-aosp_walleye_11.0.0-gapps.zip
+  ROM_URL: https://cloud.cipheros.workers.dev/0:/Realme/RMX2020/CipherOS-1.0-INFERNO-20210308-1202-rmx2020-OFFICIAL-BETA.zip
   ROM_NAME: Generic
-  ZIP_NAME: ProtonAOSP-11.2-GApps_R_TechyMinati
+  ZIP_NAME: CipherOS-1.0INFERNO_R_Arm64-TechyMinati
   TZ: Asia/Kolkata
 jobs:
   build:
