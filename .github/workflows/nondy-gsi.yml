@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/PixelPlusUI_3.5_merlin-11.0-20210523-0725-OFFICIAL.zip
+  ROM_URL: https://dl.google.com/developers/android/sc/images/factory/redfin-spb1.210331.013-factory-f3f9db4a.zip
   ROM_NAME: Generic
-  ZIP_NAME: PixelPlusUI_3.5-merlin-1-sarthakgsi
+  ZIP_NAME: Pixel5-redfin-S-23052021-1-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
