@@ -5,7 +5,7 @@ on: [push]
 env:
   ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/PixelPlusUI_3.5_merlin-11.0-20210523-0725-OFFICIAL.zip
   ROM_NAME: Generic
-  ZIP_NAME: PixelPlusUI_3.5_merlin-sarthakgsi
+  ZIP_NAME: PixelPlusUI_3.5-merlin-1-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
