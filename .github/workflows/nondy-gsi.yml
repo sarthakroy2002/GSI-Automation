@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://cloud.cipheros.workers.dev/0:/Realme/RMX2020/CipherOS-1.0-INFERNO-20210308-1202-rmx2020-OFFICIAL-BETA.zip
+  ROM_URL: https://cheems.mirrorbomt.workers.dev/0:/PixelPlusUI_3.5_merlin-11.0-20210523-0725-OFFICIAL.zip
   ROM_NAME: Generic
-  ZIP_NAME: CipherOS-1.0INFERNO_R_Arm64-TechyMinati
+  ZIP_NAME: PixelPlusUI_3.5_merlin-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
