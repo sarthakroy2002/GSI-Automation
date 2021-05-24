@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16/9.21.5.14/cn_daily/20210514003808/a073511a/update.zip
+  ROM_URL: https://mirrorbot.thecloverly.workers.dev/0://Pixel%203a%20-%20Android%2012%20Beta%201.zip
   ROM_NAME: Generic
-  ZIP_NAME: Flyme-16-9.21.5.14-cn-sarthakgsi
+  ZIP_NAME: Android12-B1-Pixel-3a-whyred-port-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
