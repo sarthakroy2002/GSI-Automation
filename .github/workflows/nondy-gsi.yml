@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://dl.google.com/developers/android/sc/images/factory/redfin-spb1.210331.013-factory-f3f9db4a.zip
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/16/9.21.5.14/cn_daily/20210514003808/a073511a/update.zip
   ROM_NAME: Generic
-  ZIP_NAME: Pixel5-redfin-S-23052021-1-sarthakgsi
+  ZIP_NAME: Flyme-16-9.21.5.14-cn-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
