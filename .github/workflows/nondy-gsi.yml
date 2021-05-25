@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://mirrorbot.thecloverly.workers.dev/0://Pixel%203a%20-%20Android%2012%20Beta%201.zip
+  ROM_URL: https://mirrorbot.thecloverly.workers.dev/0://WaveOS_RMX2020-R-v4.3-20210525-0635-UNOFFICIAL.zip
   ROM_NAME: Generic
-  ZIP_NAME: Android12-B1-Pixel-3a-whyred-port-sarthakgsi
+  ZIP_NAME: WaveOS_RMX2020-R-v4.3-20210525-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
