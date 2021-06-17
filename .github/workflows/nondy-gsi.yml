@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://mirrorbot.thecloverly.workers.dev/0://WaveOS_RMX2020-R-v4.3-20210525-0635-UNOFFICIAL.zip
+  ROM_URL: https://otafsg-cost.realmemobile.com/RMX2050/RMX2050EX_11.C.01_10100270_202106120721/patch/amazone2/GLO/RMX2050EX/RMX2050EX_11.C.01_10100270_202106120721/RMX2050EX_11_OTA_10100270_all_RxA1Xl2mWduR_6ffaac.ozip
   ROM_NAME: Generic
-  ZIP_NAME: WaveOS_RMX2020-R-v4.3-20210525-sarthakgsi
+  ZIP_NAME: trinket-rmui2-c01-sarthakgsi
   TZ: Asia/Kolkata
 jobs:
   build:
